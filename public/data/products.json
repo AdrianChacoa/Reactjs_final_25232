@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Cable Lightning iPhone 1 m",
+    "price": 4500,
+    "category": "cablesycargadores",
+    "description": "Cable certificado MFi, carga rápida y sincronización.",
+    "imageUrl": "/images/Cable_Lightning.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Funda Samsung Galaxy A55 Silicona",
+    "price": 3200,
+    "category": "fundas",
+    "description": "Funda de silicona suave, protección anti-golpes y laterales reforzados.",
+    "imageUrl": "/images/funda-samsung-a55.png"
+  },
+  {
+    "id": "3",
+    "name": "Protector de pantalla 9H",
+    "category": "cablesycargadores",
+    "price": 1200,
+    "description": "Vidrio templado 9H, filtro de privacidad, fácil instalación.",
+    "imageUrl": "/images/protector-9h.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Cargador Motorola TurboPower 30 W",
+    "price": 5500,
+    "category": "cablesycargadores",
+    "description": "Cargador rápido TurboPower 30 W con cable USB-C incluido.",
+    "imageUrl": "/images/cargador-motorola-30w.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Base magnética iPhone MagSafe",
+    "price": 6800,
+    "category": "soportes",
+    "description": "Soporte de auto con imán MagSafe, ajuste 360° y fijación firme.",
+    "imageUrl": "/images/base-magsafe-iphone.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Auriculares Samsung Galaxy Buds2",
+    "price": 12500,
+    "category": "audio",
+    "description": "True Wireless con ANC, batería 24 h, cómodos y ligeros.",
+    "imageUrl": "/images/galaxy-buds2.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Funda iPhone 15 Pro Max Cuero",
+    "price": 8900,
+    "category": "fundas",
+    "description": "Funda de cuero genuino, forro interior microfibra y marco de cámara elevado.",
+    "imageUrl": "/images/funda-iphone15-cuero.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Cable USB-C Samsung 1.2 m",
+    "price": 2500,
+    "category": "cablesycargadores",
+    "description": "Cable USB-C a USB-C, soporta carga rápida de 25 W.",
+    "imageUrl": "/images/Cable-USB-C-Samsung.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Protector Motorola Edge 40 Vidrio",
+    "price": 1800,
+    "category": "protectores",
+    "description": "Vidrio templado 9H, cubertura completa y sin burbujas.",
+    "imageUrl": "/images/protector-edge40.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Cargador CLD 20 W Dual USB",
+    "price": 3900,
+    "category": "cablesycargadores",
+    "description": "Cargador de pared dual puerto USB-A y USB-C, 20 W total.",
+    "imageUrl": "/images/cargador-cld-20w.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Soporte iPhone Escritorio Ajustable",
+    "price": 2200,
+    "category": "soportes",
+    "description": "Soporte de aluminio, ángulo ajustable y base antideslizante.",
+    "imageUrl": "/images/soporte-iphone-escritorio.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Funda Samsung Galaxy S24 Ultra Clear",
+    "price": 4100,
+    "category": "fundasyprotectores",
+    "description": "Funda transparente de TPU, protección militar y anti-amarillento.",
+    "imageUrl": "/images/funda-s24-clear.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Auriculares Motorola Moto Buds 600",
+    "price": 10500,
+    "category": "audio",
+    "description": "ANC híbrido, batería 36 h y estuche con carga inalámbrica.",
+    "imageUrl": "/images/moto-buds600.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Cable Lightning iPhone 2 m",
+    "price": 5200,
+    "category": "cablesycargadores",
+    "description": "Cable trenzado de 2 m, certificado MFi y 2.4 A de carga.",
+    "imageUrl": "/images/cable-lightning-2m.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Protector iPhone 15 Privacidad 9H",
+    "price": 3500,
+    "category": "protectores",
+    "description": "Vidrio templado con filtro de privacidad, solo visible de frente.",
+    "imageUrl": "/images/protector-iphone15-privacidad.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Cargador Samsung 45 W Super Fast",
+    "price": 7500,
+    "category": "cablesycargadores",
+    "description": "Cargador de pared 45 W con cable USB-C para Galaxy S series.",
+    "imageUrl": "/images/cargador-samsung-45w.jpeg"
+  },
+  {
+    "id": "17",
+    "name": "Funda Silicona Lisa 17 pro",
+    "price": 1900,
+    "category": "fundas",
+    "description": "Funda de silicona lisa, múltiples colores y corte preciso.",
+    "imageUrl": "/images/funda-silicona-17pro.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Soporte Motorola Ventosa Auto",
+    "price": 2800,
+    "category": "soportes",
+    "description": "Soporte de ventosa con brazo flexible y pinza ajustable.",
+    "imageUrl": "/images/soporte-motorola-ventosa.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Auriculares iPhone AirPods 3",
+    "price": 18500,
+    "category": "audio",
+    "description": "Spatial Audio, carga MagSafe y batería 30 h con estuche.",
+    "imageUrl": "/images/airpods3.jpg"
+  },
+  {
+    "id": "20",
+    "name": "Cable USB-C mobile",
+    "price": 1500,
+    "category": "cablesycargadores",
+    "description": "Cable USB-C 2.0, 3 A de carga y nylon trenzado.",
+    "imageUrl": "/images/cable-usb-c.jpg"
+  }
+]

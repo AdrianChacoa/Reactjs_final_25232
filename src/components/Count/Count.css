@@ -1,0 +1,43 @@
+
+.count-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+}
+
+.count-buttons span {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1a2c1e;
+  min-width: 30px;
+  text-align: center;
+}
+
+.count-container .btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.btn-add {
+  background-color: #09a33f !important;
+  color: rgb(255, 255, 255) !important;
+  width: 100% !important;
+  height: auto !important;
+  padding: 12px !important;
+  font-size: 0.9rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 6px rgba(59, 130, 246, 0.2);
+}
+
+.btn-add:hover:not(:disabled) {
+  background-color: #079963 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 8px rgba(59, 130, 246, 0.3);
+}
+
+.btn-add:active:not(:disabled) {
+  transform: translateY(0);
+}
