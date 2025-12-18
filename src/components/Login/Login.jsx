@@ -10,15 +10,13 @@ export const Login = () => {
     const {user, login} = useAuthContext();
 
     const navigate = useNavigate()
-
-    // Comenta esto para probar:
 // if (user) {
 //     return <Navigate to="/admin/alta-productos" />;
 // }
 
 
     const handleChange = (e) => {
-        const{ name, value }= e.target; //desestructutro el name del form de abajo
+        const{ name, value }= e.target; 
         setUserForm({...userForm, [name]: value});
     };
 
